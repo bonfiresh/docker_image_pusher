@@ -9,6 +9,7 @@ redis:alpine
 gitea/gitea:latest
 rclone/rclone:latest
 xhofe/alist:latest
+openlistteam/openlist:beta
 frooodle/s-pdf:latest
 jlesage/firefox:latest
 jrottenberg/ffmpeg:7-vaapi
