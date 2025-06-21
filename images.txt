@@ -18,5 +18,5 @@ p3terx/aria2-pro:202209060423
 portainer/portainer-ce:latest
 romancin/tinymediamanager:v4.3
 ghcr.io/synocommunity/spksrc:latest
-zulip/docker-zulip:10.2-0
+zulip/docker-zulip:10.3-0
 zulip/zulip-postgresql:14
