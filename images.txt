@@ -10,6 +10,7 @@ gitea/gitea:latest
 rclone/rclone:latest
 xhofe/alist:latest
 openlistteam/openlist:beta
+openlistteam/openlist:latest
 frooodle/s-pdf:latest
 jlesage/firefox:latest
 jrottenberg/ffmpeg:7-vaapi
