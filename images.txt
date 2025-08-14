@@ -18,5 +18,5 @@ rabbitmq:alpine
 rclone/rclone:latest
 redis:alpine
 romancin/tinymediamanager:v4.3
-zulip/docker-zulip:10.4-0
+zulip/docker-zulip:11.0-0
 zulip/zulip-postgresql:14
