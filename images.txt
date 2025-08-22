@@ -3,7 +3,6 @@ binwiederhier/ntfy:latest
 couchdb:latest
 debian:stable-slim
 frooodle/s-pdf:latest
-itzg/minecraft-server:latest
 itzg/minecraft-bedrock-server:latest
 ghcr.io/synocommunity/spksrc:latest
 gitea/gitea:latest
