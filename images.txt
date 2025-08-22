@@ -4,6 +4,7 @@ couchdb:latest
 debian:stable-slim
 frooodle/s-pdf:latest
 itzg/minecraft-bedrock-server:latest
+ghcr.io/minetest/minetest:latest
 ghcr.io/synocommunity/spksrc:latest
 gitea/gitea:latest
 jlesage/firefox:latest
@@ -18,7 +19,6 @@ rabbitmq:alpine
 rclone/rclone:latest
 redis:alpine
 romancin/tinymediamanager:v4.3
-warr1024/minetestserver:latest
 linuxserver/luanti:latest
 zulip/docker-zulip:11.0-0
 zulip/zulip-postgresql:14
