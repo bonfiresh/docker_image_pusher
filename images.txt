@@ -19,6 +19,6 @@ rclone/rclone:latest
 redis:alpine
 romancin/tinymediamanager:v4.3
 warr1024/minetestserver:latest
-linuxserver/minetest:latest
+linuxserver/minetest:5.10.0
 zulip/docker-zulip:11.0-0
 zulip/zulip-postgresql:14
