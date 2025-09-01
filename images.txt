@@ -18,5 +18,6 @@ rclone/rclone:latest
 redis:alpine
 romancin/tinymediamanager:v4.3
 linuxserver/luanti:latest
+linuxserver/luanti:arm64v8-latest
 zulip/docker-zulip:11.0-0
 zulip/zulip-postgresql:14
