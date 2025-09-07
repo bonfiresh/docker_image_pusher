@@ -11,9 +11,11 @@ jrottenberg/ffmpeg:7-vaapi
 linuxserver/luanti:latest
 memcached:alpine
 neilpang/acme.sh:latest
+nginx:latest
 node:lts-slim
 nyanmisaka/jellyfin:latest
 openlistteam/openlist:latest
+php:fpm-alpine
 portainer/portainer-ce:latest
 postgres:latest
 rabbitmq:alpine
