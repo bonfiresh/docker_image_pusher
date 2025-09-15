@@ -1,4 +1,3 @@
---platform=linux/arm64 linuxserver/luanti
 alpine:latest
 binwiederhier/ntfy:latest
 couchdb:latest
@@ -8,6 +7,7 @@ ghcr.io/synocommunity/spksrc:latest
 gitea/gitea:latest
 jlesage/firefox:latest
 jrottenberg/ffmpeg:7-vaapi
+--platform=linux/arm64 linuxserver/luanti
 linuxserver/luanti:latest
 memcached:alpine
 neilpang/acme.sh:latest
@@ -22,6 +22,6 @@ rabbitmq:alpine
 rclone/rclone:latest
 redis:alpine
 romancin/tinymediamanager:v4.3
-vaultwarden/server:alpine
+--alias=vaultwarden-server vaultwarden/server:alpine
 zulip/docker-zulip:11.1-0
 zulip/zulip-postgresql:14
