@@ -23,5 +23,5 @@ rclone/rclone:latest
 redis:alpine
 romancin/tinymediamanager:v4.3
 --alias=vaultwarden-server vaultwarden/server:alpine
-zulip/docker-zulip:11.2-0
+zulip/docker-zulip:11.3-0
 zulip/zulip-postgresql:14
