@@ -1,4 +1,5 @@
 alpine:latest
+authelia/authelia:latest
 binwiederhier/ntfy:latest
 couchdb:latest
 debian:stable-slim
