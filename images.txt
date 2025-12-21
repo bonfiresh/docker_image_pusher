@@ -1,5 +1,6 @@
 alpine:latest
 authelia/authelia:latest
+bentopdf/bentopdf:latest
 binwiederhier/ntfy:latest
 couchdb:latest
 debian:stable-slim
