@@ -4,6 +4,7 @@ bentopdf/bentopdf:latest
 binwiederhier/ntfy:latest
 couchdb:latest
 debian:stable-slim
+docker.dragonflydb.io/dragonflydb/dragonfly:latest
 ghcr.io/synocommunity/spksrc:latest
 gitea/gitea:latest
 jlesage/firefox:latest
