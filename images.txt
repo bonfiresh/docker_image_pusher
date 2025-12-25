@@ -22,7 +22,6 @@ portainer/portainer-ce:latest
 postgres:latest
 rabbitmq:alpine
 rclone/rclone:latest
-redis/redis-stack-server:latest
 romancin/tinymediamanager:v4.3
 --alias=vaultwarden-server vaultwarden/server:alpine
 zulip/docker-zulip:latest
